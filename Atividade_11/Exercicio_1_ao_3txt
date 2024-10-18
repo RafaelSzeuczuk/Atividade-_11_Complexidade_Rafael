@@ -1,0 +1,37 @@
+Nome: Rafael Szeuczuk André		Turma: B
+
+1.
+a) O que significa a eficiência de tempo de um algoritmo.
+	A comparação de tempo de execução relativa entre algoritmos;
+	
+b) Quais as grandezas físicas que influenciam a eficiência de tempo de um
+algoritmo na prática.
+	1. Do tempo que a máquina leva para executar uma instrução ou um
+passo de programa;
+	2. Da natureza do algoritmo, i.e., de quantos passos são necessários
+para se resolver o problema para um dado;
+	3. Do tamanho do conjunto de dados que constitui o problema;
+	
+c) Quais dessas grandezas nós realmente utilizamos para expressar a eficiência
+de tempo de um algoritmo, utilizando-as para o nosso modelo de computação ?
+	○ Tempo = número de operações executadas;
+	○ Quantidade de dados de entrada;
+	
+d) De quais nós abstraímos e por quê ?
+	Um computador em particular e
+assumimos que a execução de todo e qualquer passo de um algoritmo
+leva um tempo fixo e igual a uma unidade de tempo;
+
+e) Que notação utilizamos na prática para expressar a complexidade de tempo
+de um algoritmo ?
+	Big O Notation
+	
+2. Uma das possíveis formas de se descrever a complexidade de um algoritmo
+é a chamada Notação-Big-Oh. Explique o que você entendeu por esta definição.
+	Ela verifica o máximo de recursos que o algortmo vai utilizar, tendo classidicações que seguem uma regra cada uma.
+	
+3. 	Primeiro for: Linear
+	Segundo for, terceiro e (quarto ou quinto): Cubica
+	Resto: constante.
+	
+
